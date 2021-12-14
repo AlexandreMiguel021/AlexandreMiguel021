@@ -7,7 +7,6 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Alexandre-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Alexandre-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Alexandre-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="right" alt="Alexandre-pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic91/bdb07c6b9b9eb5547dc25640c9f36e83.gif">
