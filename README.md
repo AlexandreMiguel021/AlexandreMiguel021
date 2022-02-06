@@ -11,7 +11,7 @@
   <img align="center" alt="Alexandre-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Alexandre-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Alexandre-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img align="center" style="background: #fff;" alt="Alexandre-Next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
+  <img align="center" style="background: #fff;" alt="Alexandre-Next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" />
   <img align="right" alt="Alexandre-pic" height="250" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/922557394419056671/923058762208653352/img-github.png">
 </div>
 
