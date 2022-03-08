@@ -2,7 +2,8 @@
 ---
   #### 💻 Estudante de análise e desenvolvimento de sistemas
   
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AlexandreMiguel021)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreMiguel021)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <div style="display: inline_block;"><br>
