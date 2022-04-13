@@ -1,6 +1,6 @@
 ### Olá, eu sou o Alexandre 👋
 ---
-  #### Sou desenvolvedor Front-end, atualmente utilizo React/NextJS e TypeScript em meus projetos.
+  #### Sou desenvolvedor Front-end, atualmente utilizo NextJS e TypeScript em meus projetos.
 
 ---
   
@@ -11,15 +11,15 @@
 
 </br>
 
-<img alt="Alexandre-Js" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img alt="Alexandre-Ts" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-<img alt="Alexandre-HTML" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img alt="Alexandre-CSS" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img alt="Alexandre-react" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img alt="Alexandre-react" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-<img align="right" alt="Alexandre-pic" height="250" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/922557394419056671/923058762208653352/img-github.png">
-<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-<img width="40" src="https://res.cloudinary.com/dgj8nyki8/image/upload/v1649875901/icons/Next_jm6brw.svg"/>
+<img align="center" alt="Alexandre-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img align="center" alt="Alexandre-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+<img align="center" alt="Alexandre-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="center" alt="Alexandre-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="center" alt="Alexandre-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="center" alt="Alexandre-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+<img align="center" alt="Alexandre-react" height="30" width="40" src="https://res.cloudinary.com/dgj8nyki8/image/upload/v1649875901/icons/Next_jm6brw.svg" />
+<img align="center" alt="Alexandre-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+<img align="right" alt="Alexandre-pic" height="250" src="https://cdn.discordapp.com/attachments/922557394419056671/923058762208653352/img-github.png">
 
 ---
 
