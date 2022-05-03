@@ -19,7 +19,7 @@
   <img align="center" alt="Alexandre-react" height="30" width="40" src="https://res.cloudinary.com/dgj8nyki8/image/upload/v1649875901/icons/Next_jm6brw.svg" />
     <img align="center" alt="Alexandre-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
   
-  <img align="right" alt="Alexandre-pic" height="250" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/922557394419056671/923058762208653352/img-github.png">
+  <img align="right" alt="Alexandre-pic" height="250" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/922557394419056671/971179053275050045/avatar.png">
 </div>
 
 </br>
