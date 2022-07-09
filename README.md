@@ -1,6 +1,6 @@
 ### Alexandre Miguel
 ---
-  #### 💻 Desenvolvedor Front-end
+  #### 💻 Front-end developer
   
   #### 😄 Portfolio: https://alexandredev.vercel.app/
 
