@@ -23,7 +23,8 @@
   <img align="center" alt="logo sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
   <img align="center" alt="logo Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
   <img align="center" alt="logo mongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
-  
+  <img align="center" alt="logo nodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
+
   <img align="right" alt="Alexandre-pic" height="250" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/922557394419056671/971179053275050045/avatar.png">
 </div>
 
