@@ -1,4 +1,4 @@
-### Alexandre Miguel
+### Alexandre Freitas Miguel
 ---
   #### 💻 Front-end developer
   
