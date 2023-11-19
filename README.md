@@ -5,10 +5,6 @@
   #### 😄 Portfolio: https://alexandredev.vercel.app/
 
 </br>
-  
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreMiguel021&layout=compact&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ### 🚀 Tecnologias 
 
