@@ -2,7 +2,7 @@
 ---
 ### 💻 Senior React and React Native Developer
 
-### 🚀 Tecnologias 
+### 🚀 Techs
 
 <div style="display: inline_block;"><br>
   <img align="center" alt="logo Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -20,7 +20,7 @@
 
 </br>
  
- ### 🌐 Redes Sociais
+ ### 🌐 Social medias
 
 <div> 
   <a href="https://www.instagram.com/alexandre.miguell/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
