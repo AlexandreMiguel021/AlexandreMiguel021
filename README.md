@@ -1,6 +1,6 @@
 ### Alexandre Freitas Miguel
 ---
-#### 💻 Senior React and React Native Developer
+### 💻 Senior React and React Native Developer
 
 ### 🚀 Tecnologias 
 
