@@ -1,8 +1,6 @@
 ### Alexandre Freitas Miguel
 ---
-  #### 💻 Front-end developer
-  
-  #### 😄 Portfolio: https://alexandredev.vercel.app/
+  #### 💻 Senior React and React Native Developer
 
 </br>
 
